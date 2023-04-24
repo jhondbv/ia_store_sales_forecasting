@@ -3,7 +3,7 @@
 ## Miembros del grupo
 
 - Jhon David Ballesteros Vargas , 1035227695, Ingeniería de Sistemas
-- Juan Felipe Vásquez Uribe , Ingenieria Mecanica 
+- Juan Felipe Vásquez Uribe , 1152471528 Ingenieria Mecanica 
 - Natalia de Jesús Polo Peña , Ingenieria Electronica
 
 ## Datos
