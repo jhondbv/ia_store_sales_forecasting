@@ -4,7 +4,7 @@
 
 - Jhon David Ballesteros Vargas , 1035227695, Ingeniería de Sistemas
 - Juan Felipe Vásquez Uribe , 1152471528 Ingenieria Mecanica 
-- Natalia de Jesús Polo Peña , Ingenieria Electronica
+- Natalia de Jesús Polo Peña , 1193435542 Ingenieria Electronica
 
 ## Datos
 
