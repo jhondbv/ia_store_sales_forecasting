@@ -20,8 +20,11 @@ files.upload()
 3) Ecoger archivo de kaggle previamente guardado 
 4) Ejecutar todas las celdas del apartado **" Descargar Datos desde Kaggle "**
 
+## Proyecto avance 1
+- Informe : PROYECTO_ENTREGA1.pdf
 
-## Videos
+## Proyecto avance 2
+- Informe : PROYECTO_ENTREGA2.pdf
+- Notebook : ForecastingModel.ipynb 
+- [Video primera entrega](https://www.youtube.com/watch?v=GInkMLm2ZwI&ab_channel=JUANFELIPEV%C3%81SQUEZURIBE)
 
-- [Video primera entrega](Link )
-- [Video segunda entrega](Link)
