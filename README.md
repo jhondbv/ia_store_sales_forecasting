@@ -8,12 +8,18 @@
 
 ## Datos
 
-Los datos del proyecto vienen de [La competición Kaggle Store Sales Forecasting]([https://www.kaggle.com/c/titanic](https://www.kaggle.com/competitions/store-sales-time-series-forecasting/), y se pueden hacer disponibles ejecutando desde cualquier notebook en Colab los siguientes comandos
+Los datos del proyecto vienen de [La competición Kaggle Store Sales Forecasting]([Store sales - Time series forecasting](https://www.kaggle.com/competitions/store-sales-time-series-forecasting/), y se pueden hacer disponibles ejecutando desde cualquier notebook en Colab de la siguiente manera :
 
-    ! comando 1
-    ! comando 2
-    
-después de haber configurado `.kaggle/kaggle.json` de tal y tal manera.
+1) Descargar el archivo kaggle.json de tu cuenta de kaggle 
+2) Ejecutar el primer comando del notebook : 
+````python
+from google.colab import files 
+files.upload()
+````
+
+3) Ecoger archivo de kaggle previamente guardado 
+4) Ejecutar todas las celdas del apartado **" Descargar Datos desde Kaggle "**
+
 
 ## Videos
 
