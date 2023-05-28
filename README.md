@@ -36,4 +36,5 @@ files.upload()
     * 03 - Modelo SARIMAX.ipynb
     * 04 - Modelo PCA + Random Forest.ipynb
     * 05 - Modelo PCA+SVR.ipynb
+    * 05 - Modelo SVR.ipynb
 - [Video entrega final]
