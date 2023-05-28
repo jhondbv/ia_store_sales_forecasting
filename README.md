@@ -26,5 +26,14 @@ files.upload()
 ## Proyecto avance 2
 - Informe : PROYECTO_ENTREGA2.pdf
 - Notebook : ForecastingModel.ipynb 
-- [Video primera entrega](https://www.youtube.com/watch?v=GInkMLm2ZwI&ab_channel=JUANFELIPEV%C3%81SQUEZURIBE)
+- [Video segunda entrega](https://www.youtube.com/watch?v=GInkMLm2ZwI&ab_channel=JUANFELIPEV%C3%81SQUEZURIBE)
 
+## Proyecto entrega final
+- Informe : PROYECTO_ENTREGA_FINAL.pdf
+- Notebooks : 
+    * 01 - ANALISIS.ipynb
+    * 02 - Modelo RandomForest.ipynb
+    * 03 - Modelo SARIMAX.ipynb
+    * 04 - Modelo PCA + Random Forest.ipynb
+    * 05 - Modelo PCA+SVR.ipynb
+- [Video entrega final]
