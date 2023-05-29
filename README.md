@@ -31,7 +31,7 @@ files.upload()
 ## Proyecto entrega final
 - Informe : PROYECTO_ENTREGA_FINAL.pdf
 - Notebooks : 
-    * 01 - ANALISIS.ipynb
+    * 01 - Analisis Datos.ipynb
     * 02 - Modelo RandomForest.ipynb
     * 03 - Modelo SARIMAX.ipynb
     * 04 - Modelo PCA + Random Forest.ipynb
