@@ -37,4 +37,4 @@ files.upload()
     * 04 - Modelo PCA + Random Forest.ipynb
     * 05 - Modelo PCA+SVR.ipynb
     * 06 - Modelo SVR.ipynb
-- [Video entrega final]
+- [Video entrega final](https://www.youtube.com/watch?v=0C9CFQX3jSQ)
